@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glomp", "glomp.csproj", "{65B1A1BB-920A-41B1-BD32-D3EB52AE5BD6}"
+EndProject
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Packages", "Packages.mdproj", "{54C2969D-02EE-49AF-8FE8-207366852536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C2969D-02EE-49AF-8FE8-207366852536}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54C2969D-02EE-49AF-8FE8-207366852536}.Release|x86.ActiveCfg = Release|Any CPU
+		{65B1A1BB-920A-41B1-BD32-D3EB52AE5BD6}.Debug|x86.ActiveCfg = Debug|x86
+		{65B1A1BB-920A-41B1-BD32-D3EB52AE5BD6}.Debug|x86.Build.0 = Debug|x86
+		{65B1A1BB-920A-41B1-BD32-D3EB52AE5BD6}.Release|x86.ActiveCfg = Release|x86
+		{65B1A1BB-920A-41B1-BD32-D3EB52AE5BD6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = glomp.csproj
+	EndGlobalSection
+EndGlobal

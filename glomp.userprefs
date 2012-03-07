@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="MainWindow.cs" Line="200" Column="61" />
+      <File FileName="FileSlice.cs" Line="522" Column="22" />
+      <File FileName="Camera.cs" Line="1" Column="1" />
+      <File FileName="NodeManager.cs" Line="1" Column="1" />
+      <File FileName="FileNode.cs" Line="1" Column="1" />
+      <File FileName="SliceManager.cs" Line="1" Column="1" />
+      <File FileName="SceneNode.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="glomp" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="MainWindow.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>p1</Value>
+          <Value>child</Value>
+          <Value>p2</Value>
+          <Value>node1</Value>
+          <Value>node2</Value>
+          <Value>p</Value>
+          <Value>cost1</Value>
+          <Value>cost2</Value>
+          <Value>q</Value>
+          <Value>randSource</Value>
+          <Value>dummySet</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
